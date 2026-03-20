@@ -1,0 +1,9 @@
+# Ignore Node.js modules
+node_modules/
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore VS Code settings
+.vscode/
